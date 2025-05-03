@@ -1,12 +1,13 @@
+<!-- PROFİL GİRİŞİ: Hareketli yazı ve GIF -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Nuri+%F0%9F%91%8B;QA+Tester+%7C+Aspiring+SDET;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Nuri+%F0%9F%91%8B;QA+Tester+%7C+Aspiring+SDET;Automation+%7C+API+%7C+UI+Testing;Welcome+to+my+GitHub+profile!+" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" height="250" alt="Coding GIF">
+  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="400" height="250" alt="Coding GIF">
 </p>
 
-<h1 align="center"> align="center">Hi there, I'm Nuri 👋</h1>
+<h1 align="center">Hi there, I'm Nuri 👋</h1>
 
 <p align="center">
   A passionate <strong>QA Tester</strong> and aspiring <strong>SDET</strong> 🚀  

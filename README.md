@@ -4,11 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif" width="400" height="250" alt="Testing GIF">
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" height="250" alt="Coding GIF">
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="400" height="250" alt="Bug found GIF">
 </p>
 
 <h1 align="center">Hi there, I'm Nuri 👋</h1>

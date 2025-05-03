@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="400" height="250" alt="Coding GIF">
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="400" height="250" alt="SDET GIF">
 </p>
 
 <h1 align="center">Hi there, I'm Nuri 👋</h1>

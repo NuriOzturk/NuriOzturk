@@ -1,6 +1,6 @@
 <!-- PROFİL GİRİŞİ: Hareketli yazı ve GIF -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Nuri+%F0%9F%91%8B;QA+Tester+%7C+Aspiring+SDET;Automation+%7C+API+%7C+UI+Testing;Welcome+to+my+GitHub+profile!+" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Nuri+%F0%9F%91%8B;QA+Tester+%7C+Aspiring+SDET;Automation+%7C+API+%7C+UI+Testing;Welcome+to+my+GitHub+profile!+" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -39,18 +39,6 @@
 | 🧰 **Tools**      | `Postman`, `Git`, `Jira`, `Jenkins`                                              |
 | 🗄️ **Database**   | `MySQL`                                                                          |
 | 📋 **Practices**  | `Manual Testing`, `API Testing`, `UI Testing`, `Test Automation`                 |
-
----
-
-## 📊 GitHub Stats
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://your-vercel-app.vercel.app/api?username=NuriOzturk&show_icons=true&theme=tokyonight&hide_border=true" width="47%" />
-  <img src="https://your-vercel-app.vercel.app/api/top-langs/?username=NuriOzturk&layout=compact&theme=tokyonight&hide_border=true" width="47%" />
-</p>
-
 
 ---
 

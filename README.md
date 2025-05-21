@@ -43,12 +43,31 @@
 
 ## 📈 GitHub Stats
 
+## 📊 GitHub Stats & Activity
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NuriOzturk&show_icons=true&theme=tokyonight&hide_border=true" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NuriOzturk&theme=tokyonight&hide_border=true" width="47%" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NuriOzturk&layout=compact&theme=tokyonight&hide_border=true" width="47%" />
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=NuriOzturk&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" width="47%"/>
+  
+  <!-- GitHub Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NuriOzturk&theme=tokyonight&hide_border=false" width="47%"/>
 </p>
+
+<p align="center">
+  <!-- Most Used Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NuriOzturk&layout=compact&theme=tokyonight&hide_border=false" width="47%"/>
+</p>
+
+<p align="center">
+  <!-- GitHub Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=NuriOzturk&theme=tokyonight&no-frame=true&column=7" />
+</p>
+
+<p align="center">
+  <!-- Contribution Activity Graph -->
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=NuriOzturk&theme=tokyo-night&hide_border=true" />
+</p>
+
 
 ---
 

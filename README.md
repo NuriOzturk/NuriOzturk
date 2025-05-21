@@ -42,6 +42,22 @@
 
 ---
 
+<h2 align="center">📊 GitHub Stats</h2>
+<p align="center">
+⚡ Discover my GitHub contributions, coding activity, and project stats!
+</p>
+
+<p align="center">
+  <img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NuriOzturk&theme=react" alt="Depo Dilleri"/>
+  <img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=NuriOzturk&theme=react" alt="Genel İstatistikler"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/BEPb/BEPb/raw/output/github-contribution-grid-snake.svg" width="80%" alt="GitHub Contributions Snake"/>
+</p>
+
+---
+
 ## 🏆 GitHub Trophies
 
 <p align="center">
